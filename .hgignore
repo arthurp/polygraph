@@ -2,3 +2,8 @@ syntax: glob
 
 \#*\#
 *~
+Full_Drawings.pdf
+GSR_Pulse.pdf
+Regulation_Breath.pdf
+gschem.log
+
