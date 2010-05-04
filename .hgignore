@@ -7,3 +7,6 @@ GSR_Pulse.pdf
 Regulation_Breath.pdf
 gschem.log
 
+*.log
+*.pcb-
+board.cmd
