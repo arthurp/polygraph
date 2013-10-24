@@ -1,0 +1,3 @@
+#! /bin/bash
+
+java -Xbootclasspath/p:/home/amp/arduino-eclipse/configuration/org.eclipse.osgi/bundles/386/1/.cp/lib/scala-library.jar:/home/amp/arduino-eclipse/configuration/org.eclipse.osgi/bundles/386/1/.cp/lib/scala-dbc.jar:/home/amp/arduino-eclipse/configuration/org.eclipse.osgi/bundles/386/1/.cp/lib/scala-swing.jar -classpath /home/amp/shared/polygraph/eclipse-workspace/PolygraphDataProcessor/bin:/home/amp/LocalInstalls/rxtx-2.1-7-bins-r2/RXTXcomm.jar:/home/amp/shared/polygraph/eclipse-workspace/PolygraphDataProcessor/lib/jchart2d-3.1.0.jar:/home/amp/shared/polygraph/eclipse-workspace/PolygraphDataProcessor/lib/jlibeps-0.1.jar:/home/amp/shared/polygraph/eclipse-workspace/PolygraphDataProcessor/lib/jtransforms-2.3.jar singingwizard.polygraph.PolyGraph

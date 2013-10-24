@@ -1,0 +1,1439 @@
+Archive member included because of file (symbol)
+
+/home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                              ./src/BluetoothDemo.o (_ZN14HardwareSerial4readEv)
+/home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+/home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (_ZNK6StringixEj)
+/home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o) (__cxa_pure_virtual)
+/home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                              ./src/BluetoothDemo.o (delay)
+/home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+                              ./src/BluetoothDemo.o (pinMode)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodsi4.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o (exit)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+                              ./src/BluetoothDemo.o (__do_copy_data)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clear_bss.o)
+                              ./src/BluetoothDemo.o (__do_clear_bss)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o) (__do_global_ctors)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fixunssfsi.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__fixunssfsi)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__addsf3)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__mulsf3)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__divsf3)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__gtsf2)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ge_sf.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fixunssfsi.o) (__gesf2)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_lt_sf.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__ltsf2)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_le_sf.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__lesf2)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unord_sf.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__unordsf2)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__floatsisf)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_sf_to_si.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__fixsfsi)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_thenan_sf.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o) (__thenan_sf)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_usi_to_sf.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o) (__floatunsisf)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_prologue.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o) (__prologue_saves__)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_epilogue.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_tablejump.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o) (__tablejump__)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clzsi2.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o) (__clzsi2)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_pack_sf.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o) (__pack_f)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unpack_sf.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o) (__unpack_f)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clz.o)
+                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clzsi2.o) (__clz_tab)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o) (malloc)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (realloc)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(atol.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (atol)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(isspace.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (isspace)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(tolower.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (tolower)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(toupper.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (toupper)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (memcpy)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memmove.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (memmove)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strchr.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (strchr)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (strcmp)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcpy.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (strcpy)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncmp.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (strncmp)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (strncpy)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrchr.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (strrchr)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strstr.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (strstr)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (itoa)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ltoa.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (ltoa)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(atol.o) (__mulsi_const_10)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ultoa.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (ultoa)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(utoa.o)
+                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o) (utoa)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(isspace.o) (__ctype_isfalse)
+/usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrev.o)
+                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o) (strrev)
+/usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__flp               0x2               /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+ .text          0x0000000000000000        0x0 ./src/BluetoothDemo.o
+ .bss           0x0000000000000000        0x0 ./src/BluetoothDemo.o
+ .text._Z11init_timer2v
+                0x0000000000000000       0x2e ./src/BluetoothDemo.o
+ .text._Z9cleantimev
+                0x0000000000000000        0xe ./src/BluetoothDemo.o
+ .text          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .data          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .bss           0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .text._Z11serialEventv
+                0x0000000000000000        0x2 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .text._Z14serialEventRunv
+                0x0000000000000000       0x12 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC2EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+                0x0000000000000000       0x88 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial5beginEmh
+                0x0000000000000000      0x108 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x0000000000000000       0xae /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialcvbEv
+                0x0000000000000000        0x4 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .rodata._ZTV6Stream
+                0x0000000000000000       0x10 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .text          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .data          0x0000000000000000        0xe /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .bss           0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x0000000000000000       0x46 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x0000000000000000       0x66 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEc
+                0x0000000000000000       0x10 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x0000000000000000       0x16 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEv
+                0x0000000000000000       0x2a /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print11printNumberEmh
+                0x0000000000000000       0xb4 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x0000000000000000       0x1e /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEji
+                0x0000000000000000        0xe /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x0000000000000000       0x2e /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x0000000000000000       0x10 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x0000000000000000       0x30 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x0000000000000000       0x76 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x0000000000000000       0x14 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x0000000000000000       0x36 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x0000000000000000      0x1f8 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x0000000000000000        0x6 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x0000000000000000        0x8 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+ .text          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .data          0x0000000000000000        0x1 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .bss           0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringD2Ev
+                0x0000000000000000        0xc /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String10invalidateEv
+                0x0000000000000000       0x24 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String12changeBufferEj
+                0x0000000000000000       0x34 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String7reserveEj
+                0x0000000000000000       0x3e /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String4copyEPKcj
+                0x0000000000000000       0x42 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2EPKc
+                0x0000000000000000       0x36 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringaSERKS_
+                0x0000000000000000       0x36 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2ERKS_
+                0x0000000000000000       0x16 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringaSEPKc
+                0x0000000000000000       0x30 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Emh
+                0x0000000000000000       0x62 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Elh
+                0x0000000000000000       0x62 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Ejh
+                0x0000000000000000       0x60 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Eih
+                0x0000000000000000       0x60 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Ehh
+                0x0000000000000000       0x62 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringC2Ec
+                0x0000000000000000       0x32 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatEPKcj
+                0x0000000000000000       0x58 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatERKS_
+                0x0000000000000000       0x10 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatEPKc
+                0x0000000000000000       0x22 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatEc
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatEh
+                0x0000000000000000       0x5a /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatEi
+                0x0000000000000000       0x64 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatEj
+                0x0000000000000000       0x5e /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatEl
+                0x0000000000000000       0x66 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String6concatEm
+                0x0000000000000000       0x66 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZplRK15StringSumHelperRK6String
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZplRK15StringSumHelperPKc
+                0x0000000000000000       0x34 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZplRK15StringSumHelperc
+                0x0000000000000000       0x1c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZplRK15StringSumHelperh
+                0x0000000000000000       0x1c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZplRK15StringSumHelperi
+                0x0000000000000000       0x1c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZplRK15StringSumHelperj
+                0x0000000000000000       0x1c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZplRK15StringSumHelperl
+                0x0000000000000000       0x1c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZplRK15StringSumHelperm
+                0x0000000000000000       0x1c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String9compareToERKS_
+                0x0000000000000000       0x6c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String6equalsERKS_
+                0x0000000000000000       0x22 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String6equalsEPKc
+                0x0000000000000000       0x46 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6StringltERKS_
+                0x0000000000000000        0xe /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6StringgtERKS_
+                0x0000000000000000       0x12 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6StringleERKS_
+                0x0000000000000000       0x12 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6StringgeERKS_
+                0x0000000000000000       0x10 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x0000000000000000       0x74 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x0000000000000000       0x4c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String10startsWithERKS_
+                0x0000000000000000       0x20 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String8endsWithERKS_
+                0x0000000000000000       0x4a /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String9setCharAtEjc
+                0x0000000000000000       0x1a /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6StringixEj
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6StringixEj
+                0x0000000000000000       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String6charAtEj
+                0x0000000000000000        0x6 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String8getBytesEPhjj
+                0x0000000000000000       0x58 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfEcj
+                0x0000000000000000       0x3c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfEc
+                0x0000000000000000        0xa /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x0000000000000000       0x3c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String7indexOfERKS_
+                0x0000000000000000        0xa /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x0000000000000000       0x6e /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x0000000000000000       0x10 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x0000000000000000       0x9a /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x0000000000000000       0x16 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String9substringEjj
+                0x0000000000000000       0xa2 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String9substringEj
+                0x0000000000000000       0x18 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String7replaceEcc
+                0x0000000000000000       0x1e /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x0000000000000000      0x214 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String11toLowerCaseEv
+                0x0000000000000000       0x28 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String11toUpperCaseEv
+                0x0000000000000000       0x28 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZN6String4trimEv
+                0x0000000000000000       0xc2 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text._ZNK6String5toIntEv
+                0x0000000000000000       0x20 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x0000000000000000        0x1 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+ .text          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+ .data          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+ .bss           0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+ .text._Znwj    0x0000000000000000        0x6 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+ .text._ZdlPv   0x0000000000000000        0x6 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+ .text.__cxa_guard_acquire
+                0x0000000000000000       0x14 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+ .text.__cxa_guard_release
+                0x0000000000000000        0x8 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+ .text.__cxa_guard_abort
+                0x0000000000000000        0x2 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+ .text.__cxa_pure_virtual
+                0x0000000000000000        0x2 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+ .text          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+ .data          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+ .bss           0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+ .text.millis   0x0000000000000000       0x1c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x14 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+ .text          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+ .data          0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+ .bss           0x0000000000000000        0x0 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+ .text          0x0000000000000000       0x58 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fixunssfsi.o)
+ .text          0x0000000000000000      0x350 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+ .text          0x0000000000000000      0x1f4 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+ .text          0x0000000000000000      0x15c /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+ .text          0x0000000000000000       0x60 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o)
+ .text          0x0000000000000000       0x60 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ge_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ge_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ge_sf.o)
+ .text          0x0000000000000000       0x60 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_lt_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_lt_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_lt_sf.o)
+ .text          0x0000000000000000       0x60 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_le_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_le_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_le_sf.o)
+ .text          0x0000000000000000       0x5a /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unord_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unord_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unord_sf.o)
+ .text          0x0000000000000000       0xc0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o)
+ .text          0x0000000000000000       0xa4 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_sf_to_si.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_sf_to_si.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_sf_to_si.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_thenan_sf.o)
+ .data          0x0000000000000000        0x8 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_thenan_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_thenan_sf.o)
+ .text          0x0000000000000000       0xf0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_usi_to_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_usi_to_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_usi_to_sf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000       0x38 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000       0x36 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_epilogue.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_tablejump.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_tablejump.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_tablejump.o)
+ .text          0x0000000000000000       0xb4 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000      0x19c /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_pack_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_pack_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_pack_sf.o)
+ .text          0x0000000000000000       0xd2 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unpack_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unpack_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unpack_sf.o)
+ .text          0x0000000000000000       0xb2 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clz.o)
+ .data          0x0000000000000000      0x100 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clz.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+ .data          0x0000000000000000        0x6 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+ .text.avr-libc
+                0x0000000000000000      0x266 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+ COMMON         0x0000000000000000        0x4 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+ .text.avr-libc
+                0x0000000000000000      0x196 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(atol.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(atol.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(atol.o)
+ .text.avr-libc
+                0x0000000000000000       0x4e /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(atol.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(isspace.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(isspace.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(isspace.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(isspace.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(tolower.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(tolower.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(tolower.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(tolower.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(toupper.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(toupper.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(toupper.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(toupper.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memmove.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memmove.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memmove.o)
+ .text.avr-libc
+                0x0000000000000000       0x24 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memmove.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strchr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strchr.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strchr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .text.avr-libc
+                0x0000000000000000        0xe /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .text.avr-libc
+                0x0000000000000000       0x1c /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .text.avr-libc
+                0x0000000000000000       0x1e /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrchr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strstr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strstr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strstr.o)
+ .text.avr-libc
+                0x0000000000000000       0x34 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strstr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x42 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x68 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ltoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .text.avr-libc
+                0x0000000000000000       0x2a /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(mulsi10.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x4a /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ultoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(utoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(utoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(utoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x2c /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(utoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .text.avr-libc
+                0x0000000000000000        0x6 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrev.o)
+ .text.avr-libc
+                0x0000000000000000       0x20 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrev.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000       0x28 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodhi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+LOAD ./src/BluetoothDemo.o
+LOAD /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a
+LOAD /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x9ee
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x0000000000000068       0x5a /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+                0x0000000000000068                port_to_mode_PGM
+                0x0000000000000072                port_to_output_PGM
+                0x000000000000007c                port_to_input_PGM
+                0x0000000000000086                digital_pin_to_port_PGM
+                0x000000000000009a                digital_pin_to_bit_mask_PGM
+                0x00000000000000ae                digital_pin_to_timer_PGM
+                0x00000000000000c2                . = ALIGN (0x2)
+                0x00000000000000c2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000000c2        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000000c2                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000000000000c2        0x2 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000000c4                __ctors_end = .
+                0x00000000000000c4                __dtors_start = .
+ *(.dtors)
+                0x00000000000000c4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000c4        0x0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+                0x00000000000000c4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000c4        0xc /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000d0       0x16 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+                0x00000000000000d0                __do_copy_data
+ .init4         0x00000000000000e6       0x10 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000000e6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000000000000f6       0x16 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+                0x00000000000000f6                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000010c        0x8 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000114        0x4 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+                0x0000000000000114                __vector_22
+                0x0000000000000114                __vector_1
+                0x0000000000000114                __vector_24
+                0x0000000000000114                __vector_12
+                0x0000000000000114                __bad_interrupt
+                0x0000000000000114                __vector_6
+                0x0000000000000114                __vector_3
+                0x0000000000000114                __vector_23
+                0x0000000000000114                __vector_25
+                0x0000000000000114                __vector_11
+                0x0000000000000114                __vector_13
+                0x0000000000000114                __vector_17
+                0x0000000000000114                __vector_7
+                0x0000000000000114                __vector_5
+                0x0000000000000114                __vector_4
+                0x0000000000000114                __vector_2
+                0x0000000000000114                __vector_21
+                0x0000000000000114                __vector_15
+                0x0000000000000114                __vector_8
+                0x0000000000000114                __vector_14
+                0x0000000000000114                __vector_10
+                0x0000000000000114                __vector_20
+                0x0000000000000118                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN14HardwareSerial5writeEi
+                0x0000000000000118       0x10 ./src/BluetoothDemo.o
+                0x0000000000000118                _ZN14HardwareSerial5writeEi
+ .text.__vector_9
+                0x0000000000000128       0x46 ./src/BluetoothDemo.o
+                0x0000000000000128                __vector_9
+ .text.setup    0x000000000000016e       0x22 ./src/BluetoothDemo.o
+                0x000000000000016e                setup
+ .text.loop     0x0000000000000190       0x70 ./src/BluetoothDemo.o
+                0x0000000000000190                loop
+ .text.main     0x0000000000000200        0xe ./src/BluetoothDemo.o
+                0x0000000000000200                main
+ .text._ZN14HardwareSerial9availableEv
+                0x000000000000020e       0x26 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x000000000000020e                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x0000000000000234       0x38 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000000234                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x000000000000026c       0x44 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x000000000000026c                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial5flushEv
+                0x00000000000002b0       0x16 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000002b0                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x00000000000002c6       0x78 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000002c6                _ZN14HardwareSerial5writeEh
+ .text._Z10store_charhP11ring_buffer
+                0x000000000000033e       0x34 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x000000000000033e                _Z10store_charhP11ring_buffer
+ .text.__vector_18
+                0x0000000000000372       0x5e /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000000372                __vector_18
+ .text.__vector_19
+                0x00000000000003d0       0x76 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x00000000000003d0                __vector_19
+ .text._ZN14HardwareSerial5beginEm
+                0x0000000000000446       0xfe /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000000446                _ZN14HardwareSerial5beginEm
+ .text._GLOBAL__I_rx_buffer
+                0x0000000000000544       0x82 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKhj
+                0x00000000000005c6       0x54 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                0x00000000000005c6                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x000000000000061a       0x32 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                0x000000000000061a                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x000000000000064c        0x6 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                0x000000000000064c                _ZN5Print5printEPKc
+ .text.__vector_16
+                0x0000000000000652       0x90 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                0x0000000000000652                __vector_16
+ .text.micros   0x00000000000006e2       0x4c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                0x00000000000006e2                micros
+ .text.delay    0x000000000000072e       0x4e /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                0x000000000000072e                delay
+ .text.init     0x000000000000077c       0x76 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                0x000000000000077c                init
+ .text.turnOffPWM
+                0x00000000000007f2       0x5a /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000000000000084c       0x8a /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+                0x000000000000084c                pinMode
+ .text.digitalWrite
+                0x00000000000008d6       0x70 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+                0x00000000000008d6                digitalWrite
+ .text.digitalRead
+                0x0000000000000946       0x54 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+                0x0000000000000946                digitalRead
+ .text.libgcc   0x000000000000099a       0x44 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodsi4.o)
+                0x000000000000099a                __udivmodsi4
+ .text.libgcc   0x00000000000009de        0xc /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_tablejump.o)
+                0x00000000000009de                __tablejump2__
+                0x00000000000009e2                __tablejump__
+                0x00000000000009ea                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000009ea        0x0 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_exit.o)
+                0x00000000000009ea                exit
+                0x00000000000009ea                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000009ea        0x4 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000009ee                _etext = .
+
+.data           0x0000000000800100       0x1a load address 0x00000000000009ee
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100        0xa ./src/BluetoothDemo.o
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x000000000080010a       0x10 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x000000000080010a                _ZTV14HardwareSerial
+ *(.gnu.linkonce.d*)
+                0x000000000080011a                . = ALIGN (0x2)
+                0x000000000080011a                _edata = .
+                0x000000000080011a                PROVIDE (__data_end, .)
+
+.bss            0x000000000080011a       0xb6
+                0x000000000080011a                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.timeout   0x000000000080011a        0x2 ./src/BluetoothDemo.o
+                0x000000000080011a                timeout
+ .bss.state     0x000000000080011c        0x1 ./src/BluetoothDemo.o
+                0x000000000080011c                state
+ .bss.rx_buffer
+                0x000000000080011d       0x44 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x000000000080011d                rx_buffer
+ .bss.tx_buffer
+                0x0000000000800161       0x44 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x0000000000800161                tx_buffer
+ .bss.Serial    0x00000000008001a5       0x22 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                0x00000000008001a5                Serial
+ .bss.timer0_overflow_count
+                0x00000000008001c7        0x4 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                0x00000000008001c7                timer0_overflow_count
+ .bss.timer0_millis
+                0x00000000008001cb        0x4 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                0x00000000008001cb                timer0_millis
+ .bss.timer0_fract
+                0x00000000008001cf        0x1 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+ *(COMMON)
+                0x00000000008001d0                PROVIDE (__bss_end, .)
+                0x00000000000009ee                __data_load_start = LOADADDR (.data)
+                0x0000000000000a08                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008001d0        0x0
+                0x00000000008001d0                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00000000008001d0                PROVIDE (__noinit_end, .)
+                0x00000000008001d0                _end = .
+                0x00000000008001d0                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000     0x4428
+ *(.stab)
+ .stab          0x0000000000000000      0x6cc /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+ .stab          0x00000000000006cc      0x714 ./src/BluetoothDemo.o
+                                        0x7c8 (size before relaxing)
+ .stab          0x0000000000000de0      0xb7c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                                        0xfb4 (size before relaxing)
+ .stab          0x000000000000195c      0x5dc /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                                       0x1224 (size before relaxing)
+ .stab          0x0000000000001f38      0x3fc /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+                                       0x2430 (size before relaxing)
+ .stab          0x0000000000002334      0x1c8 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+                                        0x300 (size before relaxing)
+ .stab          0x00000000000024fc      0x87c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                                        0x960 (size before relaxing)
+ .stab          0x0000000000002d78      0x72c /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+                                        0xa68 (size before relaxing)
+ .stab          0x00000000000034a4      0x360 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                        0x75c (size before relaxing)
+ .stab          0x0000000000003804      0x12c /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                                        0x5c4 (size before relaxing)
+ .stab          0x0000000000003930      0x1e0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(atol.o)
+                                        0x1ec (size before relaxing)
+ .stab          0x0000000000003b10       0x18 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(isspace.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x0000000000003b28       0x18 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(tolower.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x0000000000003b40       0x18 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(toupper.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x0000000000003b58       0x84 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+                                         0x90 (size before relaxing)
+ .stab          0x0000000000003bdc       0xe4 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memmove.o)
+                                         0xf0 (size before relaxing)
+ .stab          0x0000000000003cc0       0x9c /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strchr.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x0000000000003d5c       0x84 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+                                         0x90 (size before relaxing)
+ .stab          0x0000000000003de0       0x6c /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcpy.o)
+                                         0x78 (size before relaxing)
+ .stab          0x0000000000003e4c       0xc0 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncmp.o)
+                                         0xcc (size before relaxing)
+ .stab          0x0000000000003f0c       0xcc /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+                                         0xd8 (size before relaxing)
+ .stab          0x0000000000003fd8       0x9c /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrchr.o)
+                                         0xa8 (size before relaxing)
+ .stab          0x0000000000004074      0x150 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strstr.o)
+                                        0x15c (size before relaxing)
+ .stab          0x00000000000041c4       0x18 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o)
+                                        0x1bc (size before relaxing)
+ .stab          0x00000000000041dc       0x18 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                        0x2a0 (size before relaxing)
+ .stab          0x00000000000041f4      0x114 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                                        0x120 (size before relaxing)
+ .stab          0x0000000000004308       0x18 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                        0x1ec (size before relaxing)
+ .stab          0x0000000000004320       0x18 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(utoa.o)
+                                        0x138 (size before relaxing)
+ .stab          0x0000000000004338       0x18 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                                         0x6c (size before relaxing)
+ .stab          0x0000000000004350       0xd8 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrev.o)
+                                         0xe4 (size before relaxing)
+
+.stabstr        0x0000000000000000     0x4424
+ *(.stabstr)
+ .stabstr       0x0000000000000000     0x4424 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(BTTestFirmware.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::available()                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::begin(unsigned long)              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/BluetoothDemo.o
+HardwareSerial::begin(unsigned long, unsigned char) /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::end()                             /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::flush()                           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/BluetoothDemo.o
+HardwareSerial::operator bool()                   /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::peek()                            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+HardwareSerial::read()                            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/BluetoothDemo.o
+HardwareSerial::write(int)                        ./src/BluetoothDemo.o
+HardwareSerial::write(unsigned char)              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+Print::print(Printable const&)                    /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::print(String const&)                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::print(__FlashStringHelper const*)          /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::print(char const*)                         /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                                                  ./src/BluetoothDemo.o
+Print::print(char)                                /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::print(double, int)                         /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::print(int, int)                            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::print(long, int)                           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::print(unsigned char, int)                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::print(unsigned int, int)                   /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::print(unsigned long, int)                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::printFloat(double, unsigned char)          /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println()                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(Printable const&)                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(String const&)                     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(__FlashStringHelper const*)        /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(char const*)                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(char)                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(double, int)                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(int, int)                          /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(long, int)                         /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(unsigned char, int)                /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(unsigned int, int)                 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::println(unsigned long, int)                /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::write(char const*)                         /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+Print::write(unsigned char const*, unsigned int)  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+Serial                                            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/BluetoothDemo.o
+String::String(String const&)                     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(String const&)                     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(char const*)                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(char const*)                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(char)                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(char)                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(int, unsigned char)                /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(int, unsigned char)                /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(long, unsigned char)               /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(long, unsigned char)               /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(unsigned char, unsigned char)      /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(unsigned char, unsigned char)      /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(unsigned int, unsigned char)       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(unsigned int, unsigned char)       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(unsigned long, unsigned char)      /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::String(unsigned long, unsigned char)      /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::changeBuffer(unsigned int)                /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::charAt(unsigned int) const                /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::compareTo(String const&) const            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::concat(String const&)                     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::concat(char const*)                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::concat(char const*, unsigned int)         /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::concat(char)                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::concat(int)                               /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::concat(long)                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::concat(unsigned char)                     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::concat(unsigned int)                      /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::concat(unsigned long)                     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::copy(char const*, unsigned int)           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::endsWith(String const&) const             /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::equals(String const&) const               /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::equals(char const*) const                 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::equalsIgnoreCase(String const&) const     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::getBytes(unsigned char*, unsigned int, unsigned int) const /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::indexOf(String const&) const              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::indexOf(String const&, unsigned int) const /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::indexOf(char) const                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::indexOf(char, unsigned int) const         /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::invalidate()                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::lastIndexOf(String const&) const          /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::lastIndexOf(String const&, unsigned int) const /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::lastIndexOf(char) const                   /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::lastIndexOf(char, unsigned int) const     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::operator<(String const&) const            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::operator<=(String const&) const           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::operator=(String const&)                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::operator=(char const*)                    /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::operator>(String const&) const            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::operator>=(String const&) const           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::operator[](unsigned int)                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::operator[](unsigned int) const            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+String::replace(String const&, String const&)     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::replace(char, char)                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::reserve(unsigned int)                     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::setCharAt(unsigned int, char)             /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::startsWith(String const&) const           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::startsWith(String const&, unsigned int) const /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::substring(unsigned int) const             /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::substring(unsigned int, unsigned int) const /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::toInt() const                             /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::toLowerCase()                             /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::toUpperCase()                             /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::trim()                                    /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::~String()                                 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+String::~String()                                 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+__addsf3                                          /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__brkval                                          /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__bss_end                                         /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clear_bss.o)
+__clz_tab                                         /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clzsi2.o)
+__clzsi2                                          /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clzsi2.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o)
+__ctors_end                                       /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+__ctype_isfalse                                   /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(isspace.o)
+__ctype_istrue                                    /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(cty_isfalse.o)
+__cxa_guard_abort                                 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+__cxa_guard_acquire                               /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+__cxa_guard_release                               /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+__cxa_pure_virtual                                /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+__data_end                                        /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+__divsf3                                          /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__do_clear_bss                                    /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clear_bss.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/BluetoothDemo.o
+__do_copy_data                                    /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_thenan_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/BluetoothDemo.o
+__do_global_ctors                                 /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+__epilogue_restores__                             /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_epilogue.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unord_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_le_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+__fixsfsi                                         /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__floatsisf                                       /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__floatunsisf                                     /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__flp                                             /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__fpcmp_parts_f                                   /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_le_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o)
+__gesf2                                           /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fixunssfsi.o)
+__gtsf2                                           /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__heap_end                                        /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__heap_start                                      /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__init                                            /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__lesf2                                           /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_le_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__ltsf2                                           /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__malloc_heap_end                                 /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+__malloc_heap_start                               /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_margin                                   /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+__mulsf3                                          /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__mulsi_const_10                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(mulsi10.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(atol.o)
+__pack_f                                          /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+__prologue_saves__                                /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_prologue.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unord_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_le_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+__stack                                           /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__subsf3                                          /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__tablejump2__                                    /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_tablejump.o)
+__tablejump__                                     /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_tablejump.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ctors.o)
+__thenan_sf                                       /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(utoa.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+__unordsf2                                        /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unord_sf.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+__unpack_f                                        /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_unord_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_le_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_gt_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_addsub_sf.o)
+__vector_1                                        /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_10                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_11                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_12                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_13                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_14                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_15                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_16                                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_17                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_18                                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_19                                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_2                                        /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_20                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_21                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_22                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_23                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_24                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_25                                       /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_3                                        /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_4                                        /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_5                                        /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_6                                        /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_7                                        /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_8                                        /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_9                                        ./src/BluetoothDemo.o
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vector_default                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+__vectors                                         /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+_exit                                             /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_exit.o)
+atol                                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(atol.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+cleantime()                                       ./src/BluetoothDemo.o
+delay                                             /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                                                  ./src/BluetoothDemo.o
+delayMicroseconds                                 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+digitalRead                                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+                                                  ./src/BluetoothDemo.o
+digitalWrite                                      /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+                                                  ./src/BluetoothDemo.o
+digital_pin_to_bit_mask_PGM                       /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+digital_pin_to_port_PGM                           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+exit                                              /usr/lib/gcc/avr/4.5.3/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+free                                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+init                                              /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+                                                  ./src/BluetoothDemo.o
+init_timer2()                                     ./src/BluetoothDemo.o
+isspace                                           /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(isspace.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+itoa                                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+loop                                              ./src/BluetoothDemo.o
+ltoa                                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+main                                              ./src/BluetoothDemo.o
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/crtm168.o
+malloc                                            /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+memcpy                                            /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memmove.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+memmove                                           /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(memmove.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+micros                                            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+millis                                            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+operator delete(void*)                            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+operator new(unsigned int)                        /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(new.o)
+operator+(StringSumHelper const&, String const&)  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, char const*)    /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, char)           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, int)            /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, long)           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, unsigned char)  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, unsigned int)   /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+operator+(StringSumHelper const&, unsigned long)  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+pinMode                                           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+                                                  ./src/BluetoothDemo.o
+port_to_input_PGM                                 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+port_to_mode_PGM                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+port_to_output_PGM                                /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring_digital.o)
+realloc                                           /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(realloc.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+rx_buffer                                         /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+serialEvent()                                     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+serialEventRun()                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+setup                                             ./src/BluetoothDemo.o
+state                                             ./src/BluetoothDemo.o
+store_char(unsigned char, ring_buffer*)           /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+strchr                                            /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strchr.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+strcmp                                            /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+strcpy                                            /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strcpy.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+strncmp                                           /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncmp.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+strncpy                                           /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+strrchr                                           /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrchr.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+strrev                                            /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strrev.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(utoa.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ltoa.o)
+                                                  /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(itoa.o)
+strstr                                            /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(strstr.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+timeout                                           ./src/BluetoothDemo.o
+timer0_millis                                     /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+timer0_overflow_count                             /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(wiring.o)
+tolower                                           /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(tolower.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+toupper                                           /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(toupper.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+tx_buffer                                         /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+ultoa                                             /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(ultoa.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+utoa                                              /usr/lib/gcc/avr/4.5.3/../../../avr/lib/avr5/libc.a(utoa.o)
+                                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(WString.o)
+vtable for HardwareSerial                         /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)
+vtable for Print                                  /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(Print.o)
+vtable for Stream                                 /home/amp/shared/polygraph/eclipse-workspace/ArduinoCore/168_16MHz/libArduinoCore.a(HardwareSerial.o)

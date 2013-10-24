@@ -1,0 +1,1 @@
+/home/amp/LocalInstalls/arduino-1.0.2/hardware/arduino/variants/standard/pins_arduino.h

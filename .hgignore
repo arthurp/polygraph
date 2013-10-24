@@ -1,12 +1,20 @@
-syntax: glob
+syntax:glob
+**/bin
+**/proguard_cache*
+**/.metadata
+*.log
+*.o
+*.s
+*.dat
+compression
 
 \#*\#
 *~
-Full_Drawings.pdf
-GSR_Pulse.pdf
-Regulation_Breath.pdf
 gschem.log
 
 *.log
 *.pcb-
 board.cmd
+
+*.raw
+*.plt
